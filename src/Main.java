@@ -11,6 +11,6 @@ public class Main {
 
         Xeron.Heat="123456789";
         Xeron.size=12345;
-        Xeron.Temperature="123456";
+        Xeron.Temperature=700;
     }
 }
